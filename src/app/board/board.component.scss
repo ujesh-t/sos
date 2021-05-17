@@ -1,0 +1,11 @@
+main {
+    display: grid;
+    grid-template-columns: 60px 60px 60px 60px 60px 60px 60px 60px;
+    grid-gap:0px;
+    margin-top: 10px;
+}
+
+app-tile {
+    height: 60px;
+    border: 1px gray solid;
+}
